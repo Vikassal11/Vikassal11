@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikassal11
 - 👀 I’m interested in Developing New Possibilities for Redcing Human Efforts.
-- 🌱 I’m currently learning Python with Machine Learning.
+- 🌱 I’m currently learning Machine Learning with Python.
 - 💞️ I’m looking to collaborate on the Plateform of Like Minded People.
 - 📫 you can reach me on vikassalyn@gmail.com
 
